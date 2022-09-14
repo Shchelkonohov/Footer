@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+ 
+}
+footer{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position:fixed;
+    bottom:0;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+}
+.first{
+    width:35% ;
+}
+.second{
+    width: 25%;
+}
+.third{
+    width: 20%;
+}
+.forth{
+    width: 20%;
+}
