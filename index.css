@@ -42,7 +42,7 @@ p {
 }
 .second {
   width: 20%;
-  padding: ksakjdsa;
+  padding-bottom: 35px;
 }
 
 .third {
@@ -53,5 +53,13 @@ p {
   flex-direction: row;
 }
 .forth {
-  width: 20%;
+  width: 10%;
+}
+.third p:hover {
+cursor: pointer;
+color: rgb(56, 56, 56);
+}
+.forth p:hover{
+cursor: pointer;
+color: rgb(56, 56, 56);
 }
